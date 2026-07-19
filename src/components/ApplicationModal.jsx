@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { jobs } from '../config/jobs';
 
-const WEBHOOK_URL = "/webhook/68192ba7-63db-4b62-a581-d353974d01dc";
+const WEBHOOK_URL = "https://rajputritik.app.n8n.cloud/webhook/68192ba7-63db-4b62-a581-d353974d01dc";
 
 export default function ApplicationModal({ isOpen, onClose, initialJobTitle }) {
   const [formData, setFormData] = useState({
