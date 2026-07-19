@@ -2,7 +2,7 @@
 
 An end-to-end, multi-role hiring platform that automates resume screening using AI — from a custom careers website through to dynamic, category-specific candidate evaluation, with a human-in-the-loop safety net for borderline cases.
 
-**[Live Demo](https://ai-powered-recruitment-platform-alpha.vercel.app/)** ·
+**[Live Demo](https://ai-powered-recruitment-platform-mb596ar3x-team-heterogeneous.vercel.app/)** ·
 
 ---
 
