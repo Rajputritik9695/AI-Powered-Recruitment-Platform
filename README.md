@@ -129,4 +129,4 @@ This repository contains the frontend only. The backend automation (n8n workflow
 
 ## Author
 
-Built by Ritik Singh Rajput — [LinkedIn](#) · [GitHub](#)
+Built by Ritik Singh Rajput — [LinkedIn](https://www.linkedin.com/in/ritik-singh-rajput-49b964319/) · [GitHub](https://github.com/Rajputritik9695)
